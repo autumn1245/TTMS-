@@ -1,0 +1,4 @@
+1. 首先，将TTMS8文件夹放入你的Elipse文件夹下。然后在Elipse中导入这个项目，数据库中导入ttms3.
+2. 其次，在tomcat中添加项目TTMS8。
+3. 启动tomcat然后运行TTMS8.
+4. 在网页上搜索地址：http://localhost:8080/TTMS8/
